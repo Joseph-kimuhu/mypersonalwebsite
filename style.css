@@ -1,3 +1,32 @@
 body {
-    background-color: blue;
+    background-color: rgb(234, 234, 241);
 }
+h1{
+    text-align: center;
+}
+header{
+    background-color: rgb(206, 10, 10);
+    
+}
+.About{
+    text-align: center;
+    padding: 2rem;
+    background-color: antiquewhite;
+}
+.INFO{
+    text-align: center;
+    text-shadow: 0cqi;
+    padding: 2rem;
+    justify-content: space-between;
+    background-color: aquamarine;
+}
+.Achievements{
+    text-align: center;
+    padding: 2rem;
+    background-color: burlywood;
+}
+.conclusion{
+    padding: 2rem;
+    background-color: whitesmoke;
+}
+    
